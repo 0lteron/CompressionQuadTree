@@ -1,0 +1,11 @@
+*.pgm
+*.qtc
+*.pdf
+*.txt
+*.md
+**/ressources/
+**/obj/
+**/bin/
+/.vscode/
+
+!Readme.txt
