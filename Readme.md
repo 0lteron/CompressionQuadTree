@@ -1,8 +1,6 @@
 # DIGITAL IMAGE COMPRESSION FORMAT USING QUADTREES
 
-## MEMBERS
 - Ghiles MALOUM
-- Lucas BENESBY
 
 ## DESCRIPTION
 This project consists of developing a tool for encoding/decoding compressed PGM image files using quadtrees.
@@ -95,19 +93,6 @@ Usage: `./bin/codec [options]`
   ```
   ./bin/codec -h
   ```
-
-## TASK DISTRIBUTION
-- **Ghiles MALOUM:**
-  - QuadTree
-  - PGM Parser
-  - Encoder
-  - Decoder
-
-- **Lucas BENESBY:**
-  - Segmentation grid
-  - Adaptive alpha
-  - Argument parsing
-  - Shared library
 
 ## TODO
  - For now, all files will be put in QTC/ or PGM/ folders, maybe remove this restriction
